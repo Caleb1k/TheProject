@@ -1,0 +1,24 @@
+.grid{
+	grid-template-columns:600px 600px;
+	grid-table-row:800px 500px 800px;
+	display:grid;
+	text-align;center
+	
+}
+.item1{
+height: 400px;
+border:red solid 2px;
+}
+.item2{
+height: 400px;
+border:red solid 2px;
+}
+.item3{
+height: 400px;
+border: red solid 2px;
+}
+.item4{
+	height: 400px;
+	border: red solid 2px;
+}
+<body style="background-color:powderblue;">
